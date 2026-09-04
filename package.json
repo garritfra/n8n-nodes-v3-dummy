@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-v3-dummy",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Dummy community node declaring n8nNodesApiVersion 3, for testing the n8n node API version guard",
     "license": "MIT",
     "homepage": "https://github.com/garritfra/n8n-nodes-v3-dummy",
